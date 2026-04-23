@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(135, 177, 135);
+
+    justify-content: center; 
+
+    text-align: center;
+
+}
+
+header {
+
+    background-color: rgb(76, 136, 136);
+
+    padding: 25px;
+
+    border-radius: 20px;
+
+}
+
+header h1 {
+
+    color:rgb(19, 44, 44);
+
+    font-family: fantasy;
+
+}
+
+nav {
+
+    justify-content: center;
+
+    display: flex;
+
+}
+
+nav a {
+
+    text-decoration: none;
+
+    border: 1px solid rgb(18, 42, 70);
+
+    margin: 25px;
+
+    padding: 10px;
+
+    border-radius: 15px;
+
+    color: rgb(45, 34, 128);
+
+}
+
+.home-section img{
+
+border-radius: 25px;
+
+}
+
+.product-section {
+
+    font-size:20px;
+    font-style: oblique;
+
+}
+
+.product-section img {
+
+    border-radius: 10px;
+
+}
